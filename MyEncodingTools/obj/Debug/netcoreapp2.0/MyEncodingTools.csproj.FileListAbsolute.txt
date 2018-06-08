@@ -1,0 +1,9 @@
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\bin\Debug\netcoreapp2.0\MyEncodingTools.deps.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\bin\Debug\netcoreapp2.0\MyEncodingTools.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\bin\Debug\netcoreapp2.0\MyEncodingTools.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\obj\Debug\netcoreapp2.0\MyEncodingTools.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\obj\Debug\netcoreapp2.0\MyEncodingTools.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\obj\Debug\netcoreapp2.0\MyEncodingTools.AssemblyInfoInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\obj\Debug\netcoreapp2.0\MyEncodingTools.AssemblyInfo.cs
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\obj\Debug\netcoreapp2.0\MyEncodingTools.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingTools\obj\Debug\netcoreapp2.0\MyEncodingTools.pdb

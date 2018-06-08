@@ -1,0 +1,16 @@
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingToolsTests.deps.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingToolsTests.runtimeconfig.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingToolsTests.runtimeconfig.dev.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingToolsTests.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingToolsTests.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingTools.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\bin\Debug\netcoreapp2.0\MyEncodingTools.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\obj\Debug\netcoreapp2.0\MyEncodingToolsTests.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\obj\Debug\netcoreapp2.0\MyEncodingToolsTests.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\obj\Debug\netcoreapp2.0\MyEncodingToolsTests.AssemblyInfoInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\obj\Debug\netcoreapp2.0\MyEncodingToolsTests.AssemblyInfo.cs
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\obj\Debug\netcoreapp2.0\MyEncodingToolsTests.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyEncodingTools\MyEncodingToolsTests\obj\Debug\netcoreapp2.0\MyEncodingToolsTests.pdb
